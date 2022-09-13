@@ -1,0 +1,118 @@
+C# 
+09/08/2022 
+Mysore,Karnataka,India
+-----------------------------
+
+https://fp.infosysapps.com/fp/apps/attendance/
+https://iremote.infosysapps.com/
+Value = 
+Autoimplimented property
+Indexer is used to access an object like an  array
+Static method belongs to class
+-------------------------------
+
+Advance c#
+16/08/2022c
+-------------------------------
+
+Unexpected error during runtime
+Arithmetic exception
+Index out of range exception
+Null referance
+Exeption is nothing but an a object
+1. Connecting to network
+2. Connecting to a database
+Every error has a number
+----------------------------------------
+
+Exception Handling
+----------------------------------------
+
+try
+{
+ // Piece of code that might throw an unexpected error
+ // Connecting to a database
+ // obj = new employee()
+}
+
+catch
+{
+ // Display
+}
+
+Finally
+{
+ //  Release resourses
+ // obj = null
+}
+-----------------------------------
+
+[] = Array
+-----------------------------------
+
+Object referance = 
+
+Try+double tab
+
+Non-Generic
+-----------------------------------
+
+Compliation Error = Explixit type cast required
+Runtime Error = 
+-----------------------------------
+
+Generic class
+Generic Methods
+Generiv Interface
+
+Collection classes
+-----------------------------------
+
+Non-generic collection - ArrayList
+Genenric Collection - List<T>,Sortedkist<T,k>, Dictionary<T,K>
+----------------------------------- 
+
+Properties
+-----------------------------------
+
+Capacity
+Count
+
+Methods
+-----------------------------------
+
+Add()
+AddRange(ICollection)
+Insert()
+Remove()
+RemoveAt()
+RemoveRange()
+-----------------------------------
+
+Item = Variable, Which pointed first variable 
+-----------------------------------
+
+Implicitly Type Variable
+Collection Initializer
+-----------------------------------
+
+Two types of delegates
+1.Single cast delegate
+2.Multi cast delegate
+
+18/08/2022
+
+Delegates
+------------------------
+
+1.Declare delegate
+Public delegate string AlertDelegate(string, string, int);
+2.Create deleg
+------------------------
+24/08/2022
+
+CTE
+------------------------
+A CTE allows you to define a temporary named result set that available 
+temporarily in the execution scope of a statement such as SELECT, INSERT, 
+UPDATE, DELETE, or MERGE.
